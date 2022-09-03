@@ -1,3 +1,3 @@
 <h1 align="center">RedRock</h1>
 <img src="https://github.com/sergeybespyatov/RedRock/blob/main/screenshot.jpg">
-[DEMO]([sergeybespyatov.github.io/redrock/](https://sergeybespyatov.github.io/RedRock/))
+[DEMO](https://sergeybespyatov.github.io/RedRock/)

@@ -1,9 +1,9 @@
+*Открыть ссылку в новом окне* __CTRL + ЛКМ__
+
 <h1 align="center">Вёрстка сайта</h1>
 <h2 align="center"><a href="https://sergeybespyatov.github.io/demo-1/" target="_blank">RedRock</a></h2>
 <p align="center"><img align="ctnter" width="70%" src="https://github.com/sergeybespyatov/RedRock/blob/main/screenshot.jpg"></p>
 <h2 align="center"><a href="https://sergeybespyatov.github.io/demo-1/" target="_blank">Смотреть демо</a></h2>
-
-*Открыть ссылку в новом окне* _CTRL + ЛКМ_
 
 - 100% адаптивная вёрстка.
 - Без использования Bootstrap.

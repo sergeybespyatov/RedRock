@@ -18,6 +18,6 @@
 
 ### Другие мои работы:
 
-<a href="https://github.com/sergeybespyatov/demo-2"><img width="30%" src="https://github.com/sergeybespyatov/demo-2/blob/main/screenshot.jpg"/></a>
-<a href="https://github.com/sergeybespyatov/demo-3"><img width="30%" src="https://github.com/sergeybespyatov/demo-3/blob/main/screenshot.jpg"/></a>
-<a href="https://github.com/sergeybespyatov/demo-4"><img width="30%" src="https://github.com/sergeybespyatov/demo-4/blob/main/screenshot.jpg"/></a>
+<a href="https://github.com/sergeybespyatov/demo-2"><img width="32%" src="https://github.com/sergeybespyatov/demo-2/blob/main/screenshot.jpg"/></a>
+<a href="https://github.com/sergeybespyatov/demo-3"><img width="32%" src="https://github.com/sergeybespyatov/demo-3/blob/main/screenshot.jpg"/></a>
+<a href="https://github.com/sergeybespyatov/demo-4"><img width="32%" src="https://github.com/sergeybespyatov/demo-4/blob/main/screenshot.jpg"/></a>
